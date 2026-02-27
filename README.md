@@ -8,7 +8,7 @@ You can filter tokens by creator or token ticker/symbol.
 
 ## Update Version2(Yellowstone GRPC mode)
 
-I completed version2 that can snipe in 1 or 2 blocks after mint.
+I completed version2 that can snipe in 0 block after mint.
 
 ### Example Transactions
 
@@ -20,14 +20,14 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹You're always welcome🌹
 
-Telegram: [@whistle](https://t.me/devbeast5775) <br>
+Telegram: [@soldrift](https://t.me/devbeast5775) <br>
 
 
 # 👀Usage
 1. Clone the repository
 
     ```
-    git clone https://github.com/whistledev411/pumpfun-sniper.git
+    git clone https://github.com/soldrift/pumpfun-sniper.git
     cd pumpfun-sniper
     ```
 2. Install dependencies
